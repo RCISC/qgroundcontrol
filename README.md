@@ -32,7 +32,7 @@ QGroundControl builds are supported for OSX, Linux, Windows and Android. QGround
 * Ubuntu: 64 bit, gcc compiler
 * Windows: Vista or higher, 32 bit, [Visual Studio 2013 compiler](http://www.visualstudio.com/downloads/download-visual-studio-vs#d-express-windows-desktop)
 * Android: Jelly Bean (4.1) and higher
-* Qt version: 5.5.1 (or higher)
+* Qt version: 5.5.1 (or higher)，can not be higher 
 
 ###### Install QT
 You need to install Qt like this instead of using packages from say a Linux distribution because QGroundControl needs access to private Qt headers.
